@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+
+<Workspace>
+  <ConfigDictionary>
+    
+  <CurrentConfigs><Project>StepMotor/Debug</Project></CurrentConfigs></ConfigDictionary>
+  <Desktop>
+    <Static>
+      <Workspace>
+        <ColumnWidths>
+          
+          
+          
+          
+        <Column0>124</Column0><Column1>27</Column1><Column2>27</Column2><Column3>27</Column3></ColumnWidths>
+      </Workspace>
+      <Build>
+        
+        
+        
+        
+      <ColumnWidth0>20</ColumnWidth0><ColumnWidth1>915</ColumnWidth1><ColumnWidth2>197</ColumnWidth2><ColumnWidth3>61</ColumnWidth3></Build>
+    <TerminalIO/><Debug-Log><ColumnWidth0>20</ColumnWidth0><ColumnWidth1>1221</ColumnWidth1></Debug-Log></Static>
+    <Windows>
+      
+      
+    <Wnd2>
+        <Tabs>
+          <Tab>
+            <Identity>TabID-22472-8628</Identity>
+            <TabName>Workspace</TabName>
+            <Factory>Workspace</Factory>
+            <Session>
+              
+            <NodeDict><ExpandedNode>StepMotor</ExpandedNode><ExpandedNode>StepMotor/main.c</ExpandedNode><ExpandedNode>StepMotor/sm_driver.c</ExpandedNode></NodeDict></Session>
+          </Tab>
+        </Tabs>
+        
+      <SelectedTab>0</SelectedTab></Wnd2><Wnd3>
+        <Tabs>
+          <Tab>
+            <Identity>TabID-31025-9696</Identity>
+            <TabName>Build</TabName>
+            <Factory>Build</Factory>
+            <Session/>
+          </Tab>
+        <Tab><Identity>TabID-9508-12964</Identity><TabName>Debug Log</TabName><Factory>Debug-Log</Factory><Session/></Tab></Tabs>
+        
+      <SelectedTab>0</SelectedTab></Wnd3></Windows>
+    <Editor>
+      
+      
+      
+      
+    <Pane><Tab><Factory>TextEditor</Factory><Filename>C:\Temp\IARStepMotor\code\uart.h</Filename><XPos>0</XPos><YPos>27</YPos><SelStart>1759</SelStart><SelEnd>1759</SelEnd></Tab><Tab><Factory>TextEditor</Factory><Filename>C:\Temp\IARStepMotor\code\uart.c</Filename><XPos>0</XPos><YPos>0</YPos><SelStart>795</SelStart><SelEnd>795</SelEnd></Tab><Tab><Factory>TextEditor</Factory><Filename>C:\Temp\IARStepMotor\code\speed_cntr.c</Filename><XPos>0</XPos><YPos>57</YPos><SelStart>2126</SelStart><SelEnd>2126</SelEnd></Tab><Tab><Factory>TextEditor</Factory><Filename>C:\Temp\IARStepMotor\code\main.c</Filename><XPos>0</XPos><YPos>42</YPos><SelStart>1735</SelStart><SelEnd>1735</SelEnd></Tab><Tab><Factory>TextEditor</Factory><Filename>C:\Temp\IARStepMotor\code\sm_driver.c</Filename><XPos>0</XPos><YPos>111</YPos><SelStart>908</SelStart><SelEnd>926</SelEnd></Tab><Tab><Factory>TextEditor</Factory><Filename>C:\Temp\IARStepMotor\code\global.h</Filename><XPos>0</XPos><YPos>0</YPos><SelStart>869</SelStart><SelEnd>869</SelEnd></Tab><Tab><Factory>TextEditor</Factory><Filename>C:\Program Files\IAR Systems\Embedded Workbench 5.3\avr\inc\inavr.h</Filename><XPos>0</XPos><YPos>0</YPos><SelStart>0</SelStart><SelEnd>0</SelEnd></Tab><Tab><Factory>TextEditor</Factory><Filename>C:\Program Files\IAR Systems\Embedded Workbench 5.3\avr\inc\intrinsics.h</Filename><XPos>0</XPos><YPos>0</YPos><SelStart>431</SelStart><SelEnd>431</SelEnd></Tab><Tab><Factory>TextEditor</Factory><Filename>C:\Program Files\IAR Systems\Embedded Workbench 5.3\avr\INC\iom128.h</Filename><XPos>0</XPos><YPos>122</YPos><SelStart>501</SelStart><SelEnd>501</SelEnd></Tab><Tab><Factory>TextEditor</Factory><Filename>C:\Program Files\IAR Systems\Embedded Workbench 5.3\avr\INC\ioavr.h</Filename><XPos>0</XPos><YPos>283</YPos><SelStart>8100</SelStart><SelEnd>8100</SelEnd></Tab><Tab><Factory>TextEditor</Factory><Filename>C:\MicroLab\prj\IARStepMotor\code\uart.c</Filename><XPos>0</XPos><YPos>36</YPos><SelStart>1787</SelStart><SelEnd>1787</SelEnd></Tab><Tab><Factory>TextEditor</Factory><Filename>C:\MicroLab\prj\IARStepMotor\code\global.h</Filename><XPos>0</XPos><YPos>6</YPos><SelStart>812</SelStart><SelEnd>812</SelEnd></Tab><Tab><Factory>TextEditor</Factory><Filename>C:\MicroLab\prj\IARStepMotor\code\sm_driver.h</Filename><XPos>0</XPos><YPos>18</YPos><SelStart>1454</SelStart><SelEnd>1454</SelEnd></Tab><Tab><Factory>TextEditor</Factory><Filename>C:\MicroLab\prj\IARStepMotor\code\speed_cntr.h</Filename><XPos>0</XPos><YPos>54</YPos><SelStart>845</SelStart><SelEnd>845</SelEnd></Tab><Tab><Factory>TextEditor</Factory><Filename>c:\MicroLab\prj\IARStepMotor\code\uart.h</Filename><XPos>0</XPos><YPos>15</YPos><SelStart>814</SelStart><SelEnd>814</SelEnd></Tab><Tab><Factory>TextEditor</Factory><Filename>c:\MicroLab\prj\IARStepMotor\code\speed_cntr.c</Filename><XPos>0</XPos><YPos>30</YPos><SelStart>933</SelStart><SelEnd>933</SelEnd></Tab><Tab><Factory>TextEditor</Factory><Filename>c:\MicroLab\prj\IARStepMotor\code\sm_driver.c</Filename><XPos>0</XPos><YPos>110</YPos><SelStart>3990</SelStart><SelEnd>3990</SelEnd></Tab><ActiveTab>16</ActiveTab><Tab><Factory>TextEditor</Factory><Filename>c:\MicroLab\prj\IARStepMotor\code\main.c</Filename><XPos>0</XPos><YPos>139</YPos><SelStart>1937</SelStart><SelEnd>1937</SelEnd></Tab></Pane><ActivePane>0</ActivePane><Sizes><Pane><X>1000000</X><Y>1000000</Y></Pane></Sizes><SplitMode>1</SplitMode></Editor>
+    <Positions>
+      
+      
+      
+      
+      
+    <Top><Row0><Sizes><Toolbar-00af9f60><key>iaridepm.enu1</key></Toolbar-00af9f60></Sizes></Row0></Top><Left><Row0><Sizes><Wnd2><Rect><Top>-2</Top><Left>-2</Left><Bottom>706</Bottom><Right>198</Right><x>-2</x><y>-2</y><xscreen>200</xscreen><yscreen>200</yscreen><sizeHorzCX>156250</sizeHorzCX><sizeHorzCY>210970</sizeHorzCY><sizeVertCX>156250</sizeVertCX><sizeVertCY>746835</sizeVertCY></Rect></Wnd2></Sizes></Row0></Left><Right><Row0><Sizes/></Row0></Right><Bottom><Row0><Sizes><Wnd3><Rect><Top>-2</Top><Left>-2</Left><Bottom>198</Bottom><Right>1282</Right><x>-2</x><y>-2</y><xscreen>1284</xscreen><yscreen>200</yscreen><sizeHorzCX>1003125</sizeHorzCX><sizeHorzCY>210970</sizeHorzCY><sizeVertCX>156250</sizeVertCX><sizeVertCY>210970</sizeVertCY></Rect></Wnd3></Sizes></Row0></Bottom><Float><Sizes/></Float></Positions>
+  </Desktop>
+</Workspace>
+
+
